@@ -1,7 +1,3 @@
 this is file 2
 i am line 2 
-<<<<<<< HEAD
 you are saadi 
-=======
-you are Hamza
->>>>>>> a783cba9186f176511b6a69316cfd6d72d59bd64
